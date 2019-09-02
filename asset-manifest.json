@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/repository-name/static/css/main.c2945c0a.chunk.css",
+    "main.js": "/repository-name/static/js/main.3d02300c.chunk.js",
+    "main.js.map": "/repository-name/static/js/main.3d02300c.chunk.js.map",
+    "runtime~main.js": "/repository-name/static/js/runtime~main.f7634681.js",
+    "runtime~main.js.map": "/repository-name/static/js/runtime~main.f7634681.js.map",
+    "static/css/2.266e55a5.chunk.css": "/repository-name/static/css/2.266e55a5.chunk.css",
+    "static/js/2.8fae2601.chunk.js": "/repository-name/static/js/2.8fae2601.chunk.js",
+    "static/js/2.8fae2601.chunk.js.map": "/repository-name/static/js/2.8fae2601.chunk.js.map",
+    "index.html": "/repository-name/index.html",
+    "precache-manifest.d7520a1c6afa02ed82fb3ab0301af8ab.js": "/repository-name/precache-manifest.d7520a1c6afa02ed82fb3ab0301af8ab.js",
+    "service-worker.js": "/repository-name/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/repository-name/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.c2945c0a.chunk.css.map": "/repository-name/static/css/main.c2945c0a.chunk.css.map",
+    "static/media/10.png": "/repository-name/static/media/10.3dc1f419.png",
+    "static/media/11.png": "/repository-name/static/media/11.660f9e43.png",
+    "static/media/3.png": "/repository-name/static/media/3.2da2f989.png",
+    "static/media/4.png": "/repository-name/static/media/4.f00ecb8b.png",
+    "static/media/5.png": "/repository-name/static/media/5.e311b940.png",
+    "static/media/7.png": "/repository-name/static/media/7.9b2eab24.png",
+    "static/media/8.png": "/repository-name/static/media/8.9476b1de.png",
+    "static/media/9.png": "/repository-name/static/media/9.00813ac3.png",
+    "static/media/main.css": "/repository-name/static/media/boletines_res.7a8c9884.png",
+    "static/media/boletines.css": "/repository-name/static/media/boletines2019.984e353d.png",
+    "static/media/brochure.pdf": "/repository-name/static/media/brochure.1750807d.pdf",
+    "static/media/contacto.css": "/repository-name/static/media/portada_res.b0f4961f.png"
+  }
+}
